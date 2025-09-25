@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aquarium/static/css/main.85254fbf.css",
+    "main.js": "/Aquarium/static/js/main.023e7be4.js",
+    "static/js/453.205cb114.chunk.js": "/Aquarium/static/js/453.205cb114.chunk.js",
+    "static/media/Manta ray.glb": "/Aquarium/static/media/Manta ray.9142af5ec6eb5ab87dd8.glb",
+    "static/media/Fish.glb": "/Aquarium/static/media/Fish.6e66ffe6ae2df55ed090.glb",
+    "static/media/Shark.glb": "/Aquarium/static/media/Shark.e9602f18de7339b81637.glb",
+    "static/media/SalmonFish.glb": "/Aquarium/static/media/SalmonFish.2d8a1924758a3e1dc8bb.glb",
+    "static/media/Whale.glb": "/Aquarium/static/media/Whale.6995814085385ea88a5d.glb",
+    "static/media/BlueFish.glb": "/Aquarium/static/media/BlueFish.837a01cd746151e17177.glb",
+    "static/media/Dolphin.glb": "/Aquarium/static/media/Dolphin.3d2004c799dd14284431.glb",
+    "index.html": "/Aquarium/index.html",
+    "main.85254fbf.css.map": "/Aquarium/static/css/main.85254fbf.css.map",
+    "main.023e7be4.js.map": "/Aquarium/static/js/main.023e7be4.js.map",
+    "453.205cb114.chunk.js.map": "/Aquarium/static/js/453.205cb114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85254fbf.css",
+    "static/js/main.023e7be4.js"
+  ]
+}
