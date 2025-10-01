@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/Aquarium/static/css/main.85254fbf.css",
-    "main.js": "/Aquarium/static/js/main.023e7be4.js",
+    "main.css": "/Aquarium/static/css/main.787a2fb2.css",
+    "main.js": "/Aquarium/static/js/main.f78ccf8d.js",
     "static/js/453.205cb114.chunk.js": "/Aquarium/static/js/453.205cb114.chunk.js",
+    "static/media/EnviroCoral.glb": "/Aquarium/static/media/EnviroCoral.6e7fce1f0c1691ba317d.glb",
+    "static/media/Coral.glb": "/Aquarium/static/media/Coral.0003960a44357c03066b.glb",
+    "static/media/OrangeCoral.glb": "/Aquarium/static/media/OrangeCoral.22c73a76e87195ca337b.glb",
+    "static/media/Anemone.glb": "/Aquarium/static/media/Anemone.29a9bb433ff799eb24d2.glb",
+    "static/media/SeaweedThree.glb": "/Aquarium/static/media/SeaweedThree.6df44eaf1678aac74df3.glb",
     "static/media/Manta ray.glb": "/Aquarium/static/media/Manta ray.9142af5ec6eb5ab87dd8.glb",
     "static/media/Fish.glb": "/Aquarium/static/media/Fish.6e66ffe6ae2df55ed090.glb",
     "static/media/Shark.glb": "/Aquarium/static/media/Shark.e9602f18de7339b81637.glb",
@@ -10,13 +15,15 @@
     "static/media/Whale.glb": "/Aquarium/static/media/Whale.6995814085385ea88a5d.glb",
     "static/media/BlueFish.glb": "/Aquarium/static/media/BlueFish.837a01cd746151e17177.glb",
     "static/media/Dolphin.glb": "/Aquarium/static/media/Dolphin.3d2004c799dd14284431.glb",
+    "static/media/Seaweed.glb": "/Aquarium/static/media/Seaweed.4ec8879027aaefeff102.glb",
+    "static/media/WhiteAnemone.glb": "/Aquarium/static/media/WhiteAnemone.b9c82b3b9963971ef1bb.glb",
     "index.html": "/Aquarium/index.html",
-    "main.85254fbf.css.map": "/Aquarium/static/css/main.85254fbf.css.map",
-    "main.023e7be4.js.map": "/Aquarium/static/js/main.023e7be4.js.map",
+    "main.787a2fb2.css.map": "/Aquarium/static/css/main.787a2fb2.css.map",
+    "main.f78ccf8d.js.map": "/Aquarium/static/js/main.f78ccf8d.js.map",
     "453.205cb114.chunk.js.map": "/Aquarium/static/js/453.205cb114.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85254fbf.css",
-    "static/js/main.023e7be4.js"
+    "static/css/main.787a2fb2.css",
+    "static/js/main.f78ccf8d.js"
   ]
 }
